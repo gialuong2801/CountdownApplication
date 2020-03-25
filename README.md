@@ -1,5 +1,4 @@
 # CountdownApplication
-# Project Proposal:
 **Owner**
 Nguyen Tien Dung,
 Nguyen Minh Hieu,
